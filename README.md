@@ -11,6 +11,8 @@ with an XML format file, replacing the depricated CLIEOP format as per February 
 
 Status update:
 
+02Mar13: deleted the old repository, created this new one
+
 01Mar13: the Rabobank accepted the file through telebankieren, most moneys were received
 however "postbanknumbers" were all systematically rejected. Rabobank is sorting out what happened.
 
