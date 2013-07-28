@@ -11,6 +11,10 @@ with an XML format file, replacing the depricated CLIEOP format as per February 
 
 Status update:
 
+28Jul13: With a new batch send to the Rabobank, now also the "postbanknumbers" get accepted
+
+31Mar13: changed mandate info to be unique as postbanknumbers were systematically rejected
+
 02Mar13: deleted the old repository, created this new one
 
 01Mar13: the Rabobank accepted the file through telebankieren, most moneys were received
